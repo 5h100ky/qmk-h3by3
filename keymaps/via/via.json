@@ -1,0 +1,20 @@
+{
+    "name": "5h100ky",
+
+        "device_version": "1.0.0",
+        "productId": "0x0000",
+        "vendorId": "0xFEED",
+    
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+            ["","",""],
+            ["","",""],
+            ["","",""]
+
+        ]
+    }
+}
